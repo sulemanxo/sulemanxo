@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Muhammad Suleman 👋
 
-<!--
-**sulemanxo/sulemanxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Supply Chain Management student aspiring to land a tech-focused role within the supply chain industry. I am passionate about the intersection of business, cloud technology, data analytics, and cybersecurity.
 
-Here are some ideas to get you started:
+### 🔭 What I'm up to
+* 🌱 **Currently learning:** Python, Power BI, Advanced Excel, and expanding my AWS knowledge.
+* 🎯 **Focus:** Bridging the gap between supply chain operations and secure, data-driven cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certifications
+* **Microsoft Azure:** Azure AI Fundamentals, Azure Fundamentals, AI Fundamentals
+* **Amazon Web Services (AWS):** Certified Cloud Practitioner (CLF-C02)
+* **GitHub:** GitHub Advanced Security
+* **Google:** Google Project Management Professional
+
+### 📫 Connect with me
+* **LinkedIn:** [https://www.linkedin.com/in/sulemanxo/]
